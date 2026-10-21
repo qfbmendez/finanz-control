@@ -1,1 +1,7 @@
+{
+  "product": "Finanz 2026",
+  "revoked_tokens": [
+    { "folio_tag": "FOLIO-REVOKED-00001", "token": "5B2A0935979EDDA9DB2C944F" }
+  ]
+}
 
